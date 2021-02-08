@@ -9,8 +9,6 @@ from gensim.models import FastText, Word2Vec
 import random
 import gensim
 from copy import deepcopy
-import networkx as nx
-import seaborn as sns
 import argparse 
 from preproccess import load_ents,load_file
 from collections import defaultdict
