@@ -7,6 +7,7 @@ A novel cross-lingual entity alignment framework based on multi-view KRL of a pr
 ## usage
 ```
 cd fualign
+mkdir result
 ./preproccess.sh
 ./train.sh
 ./evaluate.sh
